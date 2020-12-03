@@ -1,2 +1,4 @@
 server:
   port: 8001
+config:
+  info: 你好啊！
